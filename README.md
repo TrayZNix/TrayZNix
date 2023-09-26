@@ -26,7 +26,7 @@
 ⠀
 
 <p align="center">
-  Hi! I’m Roberto Carvajal, a 20 years old, currently working as E2E tester.
+  Hi! I’m Roberto Carvajal, a 20 years old, currently working as E2E Tester.
 </p>
 
 <p align="center">
