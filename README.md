@@ -35,7 +35,7 @@
 ⠀
 <p align="center">
   <p align="center">🤖 In my free time, I'm working on phone apps involving ANN and AI. 🤖</p>
-  <p align="center">👨🏽‍💻 I'm also looking to end up working in powerful, good and creative projects. 👨🏽‍💻</p>
+  <p align="center">👨🏽‍💻 I'm excited to help with projects that are impactful, meaningful, and innovative. 👨🏽‍💻</p>
 </p>
 ⠀
 <p align="center">
