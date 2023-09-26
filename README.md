@@ -26,15 +26,15 @@
 ⠀
 
 <p align="center">
-  Hi, I’m Roberto Carvajal, a spanish, 19 years old student, currently studying Multiplatform App Development in Seville, Spain. 
+  Hi! I’m Roberto Carvajal, a 20 years old, currently working as E2E tester.
+</p>
+
+<p align="center">
+ I have deep experience in Java, Dart, SQL, HTML, CSS and JavaScript. I also have deep experience working in frameworks such as Spring Boot, Angular, and Flutter.
 </p>
 ⠀
 <p align="center">
-  I have 2 year of experience in Java, HTML, CSS, JavaScript, TypeScript, and SQL, usign the frameworks Spring Boot, Angular, and Flutter
-</p>
-⠀
-<p align="center">
-  <p align="center">👀 I am interested in learning and acquiring more experience and knowledge in programming. 👀</p>
+  <p align="center">🤖 In my free time, I'm working on phone apps involving ANN and AI. 🤖</p>
   <p align="center">👨🏽‍💻 I'm also looking to end up working in powerful, good and creative projects. 👨🏽‍💻</p>
 </p>
 ⠀
