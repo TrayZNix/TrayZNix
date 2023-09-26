@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
- I have deep experience in Java, Dart, SQL, HTML, CSS and JavaScript. I also have deep experience working in frameworks such as Spring Boot, Angular, and Flutter.
+ I have deep experience in Java, Dart, Python, SQL, HTML, CSS and JavaScript. I also have deep experience working in frameworks such as Spring Boot, Angular, and Flutter.
 </p>
 ⠀
 <p align="center">
