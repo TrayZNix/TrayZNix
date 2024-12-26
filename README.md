@@ -26,7 +26,7 @@
 ⠀
 
 <p align="center">
-  Hi! I’m Roberto Carvajal, a 20 years old, currently working as E2E Tester.
+  Hi! I’m Roberto Carvajal, a 22 years old programmer and PenTester
 </p>
 
 <p align="center">
